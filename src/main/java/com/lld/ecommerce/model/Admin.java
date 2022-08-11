@@ -1,7 +1,7 @@
 package com.lld.ecommerce.model;
 
-public class Admin {
+public class Admin extends Account {
 
-    Account adminAccount;
+
 
 }

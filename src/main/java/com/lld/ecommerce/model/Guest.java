@@ -1,5 +1,8 @@
 package com.lld.ecommerce.model;
 
-public class Guest {
+
+public class Guest extends Account {
+
+
 
 }
